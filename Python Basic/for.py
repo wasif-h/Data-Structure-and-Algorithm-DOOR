@@ -17,6 +17,23 @@ for i in range(5):
     for j in range(5):
         print(j+1,end=" ")
     print()
+    
+# for else loop
+
+for i in range(2):
+    print("Inside loop")
+else:
+    print("Execute when loop ends - if we don't use break statement")
+print("Outside of loop")
+
+print("Another Loop-------")
+for i in range(2):
+    print("Inside loop")
+    break
+else:
+    print("Execute when loop ends - if we don't use break statement")
+print("Outside of loop")
+
 
 
 

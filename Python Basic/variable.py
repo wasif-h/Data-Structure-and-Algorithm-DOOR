@@ -3,7 +3,7 @@ b = 5.63
 c = True
 d = "Bangladesh"
 e = 3 + 7j
-e_func = complex(5,1)
+e_func = complex(5,1) # another way of complex
 
 print(a,b,c,d,e,e_func)
 print(type(a),type(b),type(c),type(d),type(e))
