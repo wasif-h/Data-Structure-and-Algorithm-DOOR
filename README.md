@@ -1,3 +1,4 @@
+![alt text](./asset/image.png)
 # Data Structure and Algorithm DOOR
 
 Welcome to Data Structure and Algorithm DOOR, a repository documenting my learning journey in mastering Data Structures and Algorithms (DSA) using Python programming. This repo serves as a personal log and a resource for others embarking on a similar journey.
